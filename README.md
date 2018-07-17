@@ -26,6 +26,9 @@
 7. http://colah.github.io/
 8. http://karpathy.github.io/
 
+## Fun
+https://experiments.withgoogle.com/collection/ai
+
 ## Научные статьи:
 ### Сверточные сети
 - Yann LeCun, Bernhard E. Boser, John S. Denker, Donnie Henderson, R. E. Howard, Wayne E. Hubbard,Lawrence D. Jackel:
