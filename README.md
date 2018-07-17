@@ -16,6 +16,16 @@
 7. [ApolloScape Scene Parsing](http://apolloscape.auto/scene.html)
 8. [CVPPP dataset](https://www.plant-phenotyping.org/CVPPP2017)
 
+## Блоги
+1. https://ai.googleblog.com/
+2. https://research.fb.com/category/computer-vision/
+3. https://www.jeremyjordan.me/
+4. http://www.computervisionblog.com/
+5. http://mccormickml.com/
+6. http://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
+7. http://colah.github.io/
+8. http://karpathy.github.io/
+
 ## Научные статьи:
 ### Сверточные сети
 - Yann LeCun, Bernhard E. Boser, John S. Denker, Donnie Henderson, R. E. Howard, Wayne E. Hubbard,Lawrence D. Jackel:
